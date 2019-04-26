@@ -1,0 +1,5 @@
+InvoiceNumber,Item,Date,Amount,Tax,Total,Currency
+994763,"Professional Services",2017-10-23,212745,42549,255294,RON
+325283,"Beverages and Catering",2017-10-14,139456,27891.2,167347,RON
+536611,"Professional Services",2017-10-22,47423,9484.6,56907.6,RON
+927129,"Concierge Services",2017-10-14,106963,21392.6,128356,EUR
